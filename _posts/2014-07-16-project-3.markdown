@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: ABC xyz
 subtitle: Website Design
 layout: default
 modal-id: 3
