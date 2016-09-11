@@ -9,7 +9,7 @@ description: "Japanese and culture gamification"
 
 # Team names, titles and social links
 people:
-- name: Đào Trọng Duy
+- name: Thầy Đào Trọng Duy
   pic: 1
   position: Trưởng phòng đào tạo - Viện đào tạo quốc tế FPT
   social:
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Thầy Chu Tuấn Luyện
   pic: 2
-  position: Lead Marketer
+  position: Giảng viên bộ môn lập trình - ĐH FPT
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Cô Lại Xuân Thu
   pic: 3
-  position: Lead Developer
+  position: Giảng viên bộ môn tiếng Nhật - ĐH FPT
   social:
     - title: twitter
       url: #
