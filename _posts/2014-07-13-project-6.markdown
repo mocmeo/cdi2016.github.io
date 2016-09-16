@@ -1,5 +1,5 @@
 ---
-title: Ahihi
+title: Ahihi kiki
 subtitle: Graphic Design
 layout: default
 modal-id: 6
