@@ -1,6 +1,6 @@
 ---
-title: ABC xyz
-subtitle: Website Design
+title: Timeline chương trình
+subtitle: Lịch trình diễn ra sự kiện
 layout: default
 modal-id: 3
 date: 2014-07-16
