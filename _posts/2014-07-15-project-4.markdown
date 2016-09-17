@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Về Coding Inspiration 2014
+subtitle: Lập trình học tiếng Nhật
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: coding2014-img.png
+thumbnail: coding2014.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

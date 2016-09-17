@@ -1,11 +1,11 @@
 ---
 title: Thể lệ cuộc thi
-subtitle: Luật chơi và những điều cần biết
+subtitle: Luật chơi
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: escape-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
