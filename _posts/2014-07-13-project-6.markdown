@@ -1,6 +1,6 @@
 ---
-title: Ahihi kiki
-subtitle: Graphic Design
+title: Quyền lợi thí sinh
+subtitle: Lợi ích của thí sinh khi tham gia
 layout: default
 modal-id: 6
 date: 2014-07-15

@@ -1,6 +1,6 @@
 ---
 title: Thể lệ cuộc thi
-subtitle: Luật chơi
+subtitle: Luật chơi, format bản đề án
 layout: default
 modal-id: 2
 date: 2014-07-17
