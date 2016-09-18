@@ -1,9 +1,15 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>Cuộc thi Coding Inspiration 2016</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
+    <meta content="http://codinginspiration.com/img/features.png" id="fbImage" itemprop="thumbnailUrl" property="og:image"/>
+    <meta content="Cuộc thi Coding Inspiration 2016" id="fbTitle" itemprop="headline" property="og:title"/>
+    <meta content="{{ site.description }}" name="description"/>
+    <meta content="http://codinginspiration.com/" id="fbUrl" property="og:url"/>
+    
+    <meta content="180276625471433" property="fb:app_id"/>
+    <meta content="codinginspiration.com" id="fbSiteName" property="og:site_name"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
@@ -37,5 +43,6 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js"></script><script>new WOW().init();</script>
 
         <link rel="image_src" href="img/header-bg.jpg" />
+
 
     </head>
