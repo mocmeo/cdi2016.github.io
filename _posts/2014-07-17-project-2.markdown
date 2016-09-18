@@ -4,7 +4,7 @@ subtitle: Luật chơi, format bản đề án
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: regulation.jpg
 thumbnail: escape-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
