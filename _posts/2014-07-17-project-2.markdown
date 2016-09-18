@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <p style="font-size:120%;">Lập trình game về những nét đặc trưng của đất nước và văn hóa Nhật Bản. <br>Có thể mang một trong các nội dung sau. <br> - Game mang hình ảnh, biểu tượng đặc trưng của đất nước Nhật Bản. <br> - Game hỗ trợ học tập, tìm hiểu ngôn ngữ và văn hóa Nhật Bản. <br> - Game mô phỏng một trò chơi truyền thống của Nhật Bản.</p>
+description:
 
 ---
